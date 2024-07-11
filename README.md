@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python with "CS50P Python Course".
 - 💞️ I’m looking to collaborate with people who wants to teach me something useful.
 - 📫 You can reach me via e-mail: easymaceasymac@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: A bear can run as fast as a horse.
 
 <!---
